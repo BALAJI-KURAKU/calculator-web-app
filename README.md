@@ -20,7 +20,8 @@ This project demonstrates basic DOM manipulation, event handling, and UI styling
 ---
 
 ## 📸 Screenshot
-*(Add your project screenshot here if you want)*  
+<img width="579" height="789" alt="image" src="https://github.com/user-attachments/assets/1ff9775f-8bb7-4589-b9cb-3c636e97bd36" />
+
 
 ---
 
@@ -49,13 +50,13 @@ calculator-web-app/
 ## ⚡ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-web-app.git
+   git clone https://github.com/BALAJI-KURAKU/calculator-web-app.git
 
 2. Navigate into the project folder:
    ```bash
    cd calculator-web-app
 
-3. Open 'index.html' in your browser.
+3. Open **index.html** in your browser.
    
 ---
 
